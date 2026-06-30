@@ -10,7 +10,3 @@ I'm a Computer Engineering MSc student at the University of Minho, with a solid 
 ### Tech I work with
 `Python` · `Java` · `SQL` · `JavaScript` · `TypeScript`
 `Git` · `Docker` · `PostgreSQL` · `React` · `FastAPI`
-
-### Projects
-- **Supermarket Price Intelligence**: multi-agent platform (SPADE/XMPP) that collects supermarket prices from 3 chains, with price forecasting and a recommendation engine served through a FastAPI API and a Streamlit dashboard. *Academic team project.*
-- **Rumo Energia Website**: responsive production website for a real client (Next.js, React, TypeScript).
